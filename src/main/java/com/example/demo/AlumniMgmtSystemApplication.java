@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AlumniMgmtSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AlumniMgmtSystemApplication.class, args);
+		SpringApplication.run(AlumniMgmtSystemApplication.class, args); // comment added
 	}
 
 }

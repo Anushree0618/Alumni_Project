@@ -1,2 +1,0 @@
-INDEX VERSION 1.134+F:\Alumni_Porject\Alumni_Project\.metadata\.plugins\org.eclipse.jdt.core
-1292304206.index
